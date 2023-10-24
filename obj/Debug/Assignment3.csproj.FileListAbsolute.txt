@@ -1,0 +1,15 @@
+F:\Koulu\Kolmosvuos\Windows_Ohjelmoitni\Assignment3\bin\Debug\Assignment3.exe.config
+F:\Koulu\Kolmosvuos\Windows_Ohjelmoitni\Assignment3\bin\Debug\Assignment3.exe
+F:\Koulu\Kolmosvuos\Windows_Ohjelmoitni\Assignment3\bin\Debug\Assignment3.pdb
+F:\Koulu\Kolmosvuos\Windows_Ohjelmoitni\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+F:\Koulu\Kolmosvuos\Windows_Ohjelmoitni\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+F:\Koulu\Kolmosvuos\Windows_Ohjelmoitni\Assignment3\obj\Debug\Assignment3.exe
+F:\Koulu\Kolmosvuos\Windows_Ohjelmoitni\Assignment3\obj\Debug\Assignment3.pdb
+D:\Koulu\Kolmosvuos\Windows_Ohjelmointi\Assignment3\bin\Debug\Assignment3.exe.config
+D:\Koulu\Kolmosvuos\Windows_Ohjelmointi\Assignment3\bin\Debug\Assignment3.exe
+D:\Koulu\Kolmosvuos\Windows_Ohjelmointi\Assignment3\bin\Debug\Assignment3.pdb
+D:\Koulu\Kolmosvuos\Windows_Ohjelmointi\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+D:\Koulu\Kolmosvuos\Windows_Ohjelmointi\Assignment3\obj\Debug\Assignment3.csproj.SuggestedBindingRedirects.cache
+D:\Koulu\Kolmosvuos\Windows_Ohjelmointi\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+D:\Koulu\Kolmosvuos\Windows_Ohjelmointi\Assignment3\obj\Debug\Assignment3.exe
+D:\Koulu\Kolmosvuos\Windows_Ohjelmointi\Assignment3\obj\Debug\Assignment3.pdb
